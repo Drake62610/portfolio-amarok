@@ -1,0 +1,3 @@
+{{ $image = resources.GetMatch (.Get "src") }}
+{{ $.Scratch.Set "thumbnail" ($image.Resize "600x q90") }}
+<img src="{{ ($.Scratch.Get "thumbnail").RelPermalink }}" data-ngsrc="{{$image.RelPermalink}}" />
