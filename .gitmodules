@@ -1,0 +1,3 @@
+[submodule "themes/blowfi"]
+	path = themes/blowfi
+	url = https://github.com/nunocoracao/blowfish.git
