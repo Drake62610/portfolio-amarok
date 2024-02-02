@@ -1,0 +1,36 @@
+languageCode = "fr"
+languageName = "Francais"
+weight = 1
+title = "AlexanderAmarok"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Alexander Amarok"
+  image = "img/amarok_logo.jpg"
+  headline = "Je fais du pixel art et des stickers, tout ça depuis le royaume de Belgique"
+  bio = ""
+  links = [
+    { email = "mailto:hello@your_domain.com" },
+    { link = "https://link-to-some-website.com/" },
+    { bluesky = "https://bsky.app/profile/username" },
+    { discord = "https://discord.gg/invitecode" },
+    { instagram = "https://instagram.com/username" },
+    { mastodon = "https://mastodon.instance/@username" },
+    { reddit = "https://reddit.com/user/username" },
+    { steam = "https://steamcommunity.com/profiles/userid" },
+    { tiktok = "https://tiktok.com/@username" },
+    { tumblr = "https://username.tumblr.com" },
+    { twitch = "https://twitch.tv/username" },
+    { x-twitter = "https://twitter.com/username" },
+    { youtube = "https://youtube.com/username" },
+    { ko-fi = "https://ko-fi.com/username" },
+  ]
