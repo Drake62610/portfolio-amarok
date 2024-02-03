@@ -2,20 +2,30 @@
 draft: false
 summary: "Apprends à me connaitre"
 showAuthor: true
+showTableOfContents: true
 ---
 
-# About Me
- 
-Salut, moi c'est AlexanderAmarok, une chauve-souris des Internet qui fait beaucoup de trucs différents, ou du moins qui essaye !
+### Commissions Ouverte
 
-# Portfolio
+Vous pouvez retrouver l'ensemble de mes commissions sur mon [ko-fi](https://ko-fi.com/alexanderamarok0035/commissions) ou consulter mes tarifs [ici](#tarif)
 
-Ce portfolio -temporaire- répertorie l'ensemble, ou du moins une majorité de ce que j'ai réalisé ces dernières années ! Vous y retrouverez principalement du pixel art et du dessin, mais aussi de la 3D, des commissions (disponible sur mon Kofi), des items relatifs a Twitch, des memes débiles, des jeux, des sous-titrages, et d'autres choses !
-
-​
-
-- Portfolio en cours de réalisation, les anciens travaux ainsi que certaines catégories sont encore absents ou en travaux. -
+Mon travail vous interesse et vous souhaitez me présenter votre projet ? N'hésitez pas à me [contacter](../)
 
 
-{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
 
+### Galerie de Commission réalisé
+
+{{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="1200x1200 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+
+### Tarif
+{{< table >}}
+| Commission | Description | Prix |
+|:-------:|:----------------------:|------------|
+| Badge Pixel Twitch | Badge pixel en 18x18, 36,36 & 72x72 | 5 € |
+| Emote Twitch | Pixel art en 28x28 | 13 € |
+| Emote Twitch Animé | Pixel art en 28x28 | 18 € |
+| Pixel PNGtuber | 4 frames, compatible veadotube | 25 € |
+| Icone de profil pokémon | Dessin numérique Pokémon de votre choix | 5 € |
+{{< /table >}}
+
+Pour plus de detail visitez mon [ko-fi](https://ko-fi.com/alexanderamarok0035/) 
