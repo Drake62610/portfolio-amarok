@@ -32,7 +32,7 @@ defaultBackgroundImage = "img/background.png" # used as default for background i
   showMenu = false
   showCopyright = false
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
@@ -40,7 +40,7 @@ defaultBackgroundImage = "img/background.png" # used as default for background i
   homepageImage = "img/background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 12
-  showMoreLink = true
+  showMoreLink = false
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
