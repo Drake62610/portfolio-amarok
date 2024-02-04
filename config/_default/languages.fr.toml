@@ -8,9 +8,9 @@ title = "AlexanderAmarok"
   isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  logo = "static/favicon-32x32.png"
+  secondaryLogo = "static/favicon-32x32.png"
+  description = "AlexanderAmarok's personal portfolio"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
